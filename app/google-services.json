@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "489274984038",
+    "project_id": "incidentsapp-71ada",
+    "storage_bucket": "incidentsapp-71ada.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489274984038:android:aea6a2362095f8a061cfa7",
+        "android_client_info": {
+          "package_name": "com.example.incidentsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489274984038-8vagltfumk5660blc9od6qd0l0bjk850.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.incidentsapp",
+            "certificate_hash": "26cf5b651e698f76033d174047cd9601b8f200fc"
+          }
+        },
+        {
+          "client_id": "489274984038-td4reroh4fse82bumaf6k173oglfklth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3YCBnrtR2JvRZrBdyVfUGQDOU3wpjJHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489274984038-td4reroh4fse82bumaf6k173oglfklth.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

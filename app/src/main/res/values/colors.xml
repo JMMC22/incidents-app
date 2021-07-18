@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#F9D551</color>
+    <color name="primary_variant">#FCECB4</color>
+    <color name="secondary">#F9B700</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Status colors -->
+    <color name="pending">#707070</color>
+    <color name="inprocess">#005cb2</color>
+    <color name="fixed">#00701a</color>
+    <color name="rejected">#ab000d</color>
+
+</resources>
